@@ -1,0 +1,58 @@
+{
+    "npcName": "Joe",
+    "questComplete": false,
+    "dialogues": [
+        {
+            "index": 0,
+            "text": "Hey, what's up?",
+            "responses": [
+                {
+                    "text": "What's the word?",
+                    "index": 1
+                },
+                {
+                    "text": "See anything?",
+                    "index": 2
+                }
+            ],
+            "quest": null
+        },
+        
+        {
+            "index": 1,
+            "text": "Stormcloaks or something idk",
+            "responses": [],
+            "quest": null
+        },
+
+        {
+            "index": 2,
+            "text": "Dragon approaching! If you slay it, I'll reward you!",
+            "responses": [
+                {
+                    "text": "I'll look into it.",
+                    "index": 3
+                },
+                {
+                    "text": "I'm busy at the moment",
+                    "index": 4
+                }
+            ],
+            "quest": null
+        },
+
+        {
+            "index": 3,
+            "text": "Thank you, and good luck.",
+            "responses": [],
+            "quest": 1
+        },
+
+        {
+            "index": 4,
+            "text": "I'm here if you change your mind.",
+            "responses": [],
+            "quest": null
+        }
+    ]
+}

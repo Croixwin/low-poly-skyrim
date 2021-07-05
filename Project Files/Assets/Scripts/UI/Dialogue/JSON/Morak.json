@@ -1,0 +1,12 @@
+{
+    "npcName": "Morak",
+    "questComplete": false,
+    "dialogues": [
+        {
+            "index": 0,
+            "text": "Hey you! Take one of these weapons on this rock over here, and use it to defeat that dragon!",
+            "responses": [],
+            "quest": null
+        }   
+    ]
+}

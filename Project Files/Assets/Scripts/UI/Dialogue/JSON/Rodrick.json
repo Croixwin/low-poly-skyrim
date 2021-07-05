@@ -1,0 +1,35 @@
+{
+    "npcName": "Rodrick the Wise",
+    "questComplete": false,
+    "dialogues": [
+        {
+            "index": 0,
+            "text": "Greetings traveler. Would you be dragon born by chance?",
+            "responses": [
+                {
+                    "text": "Ye",
+                    "index": 1
+                },
+                {
+                    "text": "Nah",
+                    "index": 2
+                }
+            ],
+            "quest": null
+        },
+        
+        {
+            "index": 1,
+            "text": "So the legends are true... Press F to use Shout (Stamina must be > 75%)",
+            "responses": [],
+            "quest": null
+        },
+
+        {
+            "index": 2,
+            "text": "Understandable, have a nice day.",
+            "responses": [],
+            "quest": null
+        }
+    ]
+}
